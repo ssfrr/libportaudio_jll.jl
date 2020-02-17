@@ -1,0 +1,9 @@
+[[libportaudio]]
+arch = "x86_64"
+git-tree-sha1 = "3d72249f592b4837bb282260c56205c323152ec3"
+libc = "glibc"
+os = "linux"
+
+    [[libportaudio.download]]
+    sha256 = "72acf3f2222833f064326a5eafc7dbf1f6057b2a0034baef9a7cb1e7a1022353"
+    url = "https://github.com/ssfrr/libportaudio_jll.jl/releases/download/libportaudio-v19.6.0+2/libportaudio.v19.6.0.x86_64-linux-gnu.tar.gz"
